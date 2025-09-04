@@ -44,5 +44,5 @@
 - Removed in-video ads to enhance user experience.
 
 ## Known Issues
-- No major issues reported in this release.
+- No issues were discovered in this release.
 
