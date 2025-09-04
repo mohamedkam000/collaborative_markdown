@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.wallpapersafari.com/82/29/4lEoJFI.webp" width="100%">
+  <img src="https://www.pixelstalk.net/wp-content/uploads/2016/09/Best-hd-wallpaper-video-download.jpg" width="100%">
 </p>
 
 # Software Release Notes - Video Downloader v1.19
