@@ -36,3 +36,6 @@
   </tr>
 </table>
 
+## New Features
+- **Multi download**: Download multiple videos simultaneously.
+- 
