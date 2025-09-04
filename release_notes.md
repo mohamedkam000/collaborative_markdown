@@ -46,3 +46,9 @@
 ## Known Issues
 - No issues were discovered in this release.
 
+## Upgrade Instructions
+- Download the latest version from our GitHub's releases page.
+- Install over your existing version (settings will be preserved).
+
+## Notes
+- For questions or support, contact the development team via email or submit an issue through GitHub.
