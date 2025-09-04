@@ -38,4 +38,11 @@
 
 ## New Features
 - **Multi download**: Download multiple videos simultaneously.
-- 
+- **Resolution selection**: Choose your preferred video quality before downloading.
+
+## Bug Fixes & Improvements
+- Removed in-video ads to enhance user experience.
+
+## Known Issues
+- No major issues reported in this release.
+
