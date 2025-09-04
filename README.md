@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.wallpapersafari.com/82/29/4lEoJFI.webp" width="100%">
+</p>
+
 # Software Release Notes - Video Downloader v1.19
 
 ## Release Date
